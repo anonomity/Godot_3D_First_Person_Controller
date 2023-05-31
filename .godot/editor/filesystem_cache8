@@ -1,0 +1,8 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685519093
+icon.svg::CompressedTexture2D::7751190261172889671::1685518686::1685518690::1::::<><>::
+::res://assets/::1685518844
+Sword.blend::PackedScene::5534316797249338508::1685518806::1685518844::1::::<><>::
+::res://scenes/::1685519045
+Main_Player.tscn::PackedScene::3996703533250320132::1685519045::0::1::::<><>::res://Scripts/Character/Main_Character/Main_Player.gd<>uid://ck34nh1jpu2we
+world.tscn::PackedScene::2747242208226235836::1685519045::0::1::::<><>::uid://bw7begq5bvkgy
